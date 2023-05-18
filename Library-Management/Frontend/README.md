@@ -1,4 +1,4 @@
-# login-signup
+# Library-Management Frontend
 
 ## Project setup
 ```
